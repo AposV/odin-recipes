@@ -1,1 +1,2 @@
 # odin-recipes
+Odin Recipes is a website displaying some selected recipes. This webpage was created as part of the learning experience at the odin project. This assignment is used to develop some basic webpage building skills uponwhich I will practice more advanced skills as the time goes by.
